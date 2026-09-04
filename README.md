@@ -272,8 +272,6 @@ All configuration screenshots are organized in the `/screenshots` directory:
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **GitHub:** [Your GitHub Profile URL]
 - **NetworkWalks:** [https://networkwalks.com](https://networkwalks.com)
 
 ---
